@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskManagerAPI/TaskManagerAPI.csproj" Id="0da01b9a-f1a5-44d3-b196-9b6b2ddbca86" />
+  <Project Path="TaskManagerAPITests/TaskManagerAPITests.csproj" Id="795d0189-8f23-46c7-bc6b-8f2b40aa74f4" />
+</Solution>
